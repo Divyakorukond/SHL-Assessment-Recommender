@@ -8,7 +8,7 @@ An AI-powered Streamlit app to recommend SHL assessments based on job descriptio
 - Streamlit for UI
 
 ## 🚀 Demo
-[Live App →](https://kondavishalgoud-shl-assessment-recommendation-system-app-xmuf1d.streamlit.app/)
+[Live App →](https://shl-assessment-recommender-bk5ckxwtbtlfitkspawuhf.streamlit.app/)
 
 ## 📦 Install
 ```bash
